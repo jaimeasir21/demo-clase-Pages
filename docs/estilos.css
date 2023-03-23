@@ -6,4 +6,5 @@ h1 {
 
 p {
     font-style: italic;
+    border: 3px dotted purple;
 }
